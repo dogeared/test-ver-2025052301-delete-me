@@ -1,1 +1,5 @@
-# test-ver-2025052301-delete-me
+{
+  "completionId": "484f8508-686b-481f-ba81-ed9793e6a28f",
+  "completionToken": "eyJhbGciOiJIUzUxMiJ9.eyJjb21wbGV0aW9uSWQiOiI0ODRmODUwOC02ODZiLTQ4MWYtYmE4MS1lZDk3OTNlNmEyOGYiLCJpYXQiOjE3Nzk0NzQ1MzAsImV4cCI6MTc3OTUwODgwMH0.9k4My61gpM9VXFXjRMDypPQRzkEbd73mc9XqmAwN1UBOMZSxq8m24JKqJ590f_vRW8bhW0H6xoRGZlKc58jUgA",
+  "currency": "USD"
+}
